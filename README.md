@@ -1,7 +1,7 @@
 
-## Hi there 👋 I'm Kirmarainch
+<p style="text-align: center;">## Hi there 👋 I'm Kirmarainch</p>## Hi there 👋 I'm Kirmarainch
 
-I am an undergraduate student @<a href="https://www.pku.edu.cn">PKU</a> majoring in Philosophy.
+<p style="text-align: center;">I am an undergraduate student @<a href="https://www.pku.edu.cn">PKU</a> majoring in Philosophy.</p>
 <!--
 **kirmarainch/kirmarainch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
