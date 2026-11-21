@@ -1,12 +1,3 @@
-<!-- ========== 顶部横幅 ========== -->
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=180&section=header&text=Hi%2C%20I'm%20YourName&fontSize=44&fontColor=ffffff&animation=fadeIn&desc=一行话说清你在做什么&descAlignY=72" />
-
-<!-- 打字动画 -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF8&center=true&vCenter=true&width=600&lines=Backend+Developer;Lifelong+Learner;Open+Source+Enthusiast" />
-</a>
 
 ## Hi there 👋 I'm Kirmarainch
 
