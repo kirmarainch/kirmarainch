@@ -1,5 +1,5 @@
 
-<p style="text-align: center;">## Hi there 👋 I'm Kirmarainch</p>## Hi there 👋 I'm Kirmarainch
+## Hi there 👋 I'm Kirmarainch
 
 <p style="text-align: center;">I am an undergraduate student @<a href="https://www.pku.edu.cn">PKU</a> majoring in Philosophy.</p>
 <!--
